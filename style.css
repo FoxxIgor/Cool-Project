@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    color:rgb(255, 68, 68);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-inverse{
+    list-style: none;
+    position:fixed;
+    margin-top: 0% !important;
+    margin-left:0% !important;
+    top:0px;
+    z-index: 10;
+    cursor:pointer;
+    background-color:rgb(255, 40, 40);
+    font-size: 110%;
+}
+
+.myNavbar{
+    position: sticky;
+    top:0;
+    z-index: 9999;
+}
+
+.img{
+    width: 40%;
+}
