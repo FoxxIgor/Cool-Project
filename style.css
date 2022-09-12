@@ -28,3 +28,15 @@ body{
 .YTV{
     width: 50%;
 }
+
+.filmshead{
+    text-align: left;
+    background-color: rgb(2, 2, 80);
+    font-size: 18px;
+    padding: 4px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+
+    
